@@ -4,7 +4,7 @@
 
 ## Firefox browser add-on with built-in light and dark themes that can be switched with one click
 
-### **Keyboard shortcuts:**
+## **Keyboard shortcuts:**
 
 - **Windows →** **`Ctrl`** + **`Shift`** + **`Space`**
 - **macOS →** **`Cmd`** + **`Shift`** + **`Space`**
