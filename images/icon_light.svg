@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246.804 499.962">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ababab;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <title>xxAsset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="icon_dark">
+      <circle class="cls-1" cx="123.402" cy="375.669" r="90.245"/>
+      <path class="cls-2" d="M123.4,499.962h0a123.4,123.4,0,0,0,123.4-123.4V123.4A123.4,123.4,0,0,0,123.4,0h0A123.4,123.4,0,0,0,0,123.4V376.56A123.4,123.4,0,0,0,123.4,499.962Zm0-214.538a90.246,90.246,0,1,1-90.245,90.245A90.245,90.245,0,0,1,123.4,285.424Z"/>
+    </g>
+  </g>
+</svg>

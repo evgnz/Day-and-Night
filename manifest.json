@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "name": "Day & Night",
+  "description": "__MSG_extension_description__",
+  "author": "Evgeny Chumichev",
+  "manifest_version": 2,
+  "default_locale": "en",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f1379f36-0719-4b9a-bd37-4c71475c5268}",
+      "strict_min_version": "87.0"
+    }
+  },
+  "permissions": ["theme", "notifications", "management", "storage"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "32": "images/logo_32.svg",
+    "48": "images/logo_48.svg",
+    "64": "images/logo_64.svg",
+    "256": "images/logo_256.svg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "32": "images/logo_32.svg"
+    },
+    "theme_icons": [
+      {
+        "light": "images/icon_light.svg",
+        "dark": "images/icon_dark.svg",
+        "size": 32
+      }
+    ],
+    "default_title": "Day & Night"
+  },
+  "commands": {
+    "switch_theme": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Space"
+      },
+      "description": "__MSG_hotkeys_description__"
+    }
+  }
+}

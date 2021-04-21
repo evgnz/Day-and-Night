@@ -1,0 +1,14 @@
+{
+  "extension_description": {
+    "message": "An add-on with built-in light and dark themes that can be switched with one click. Keyboard shortcuts (default): 𝗪𝗶𝗻𝗱𝗼𝘄𝘀/𝗺𝗮𝗰𝗢𝗦 → 𝐂𝐭𝐫𝐥/𝗖𝗺𝗱 + 𝐒𝐡𝐢𝐟𝐭 + 𝗦𝗽𝗮𝗰𝗲"
+  },
+  "notification_text": {
+    "message": "You can switch your browser themes\nwith the hotkeys:\n𝗪𝗶𝗻𝗱𝗼𝘄𝘀 → 𝐂𝐭𝐫𝐥 + 𝐒𝐡𝐢𝐟𝐭 + 𝗦𝗽𝗮𝗰𝗲\n𝗺𝗮𝗰𝗢𝗦 → 𝗖𝗺𝗱 + 𝐒𝐡𝐢𝐟𝐭 + 𝗦𝗽𝗮𝗰𝗲"
+  },
+  "notification_title": {
+    "message": "\"Day & Night\" Extension:"
+  },
+  "hotkeys_description": {
+    "message": "Switch theme"
+  }
+}
