@@ -16,9 +16,11 @@
     "scripts": ["background.js"]
   },
   "icons": {
+    "16": "images/logo_16.svg",
     "32": "images/logo_32.svg",
     "48": "images/logo_48.svg",
     "64": "images/logo_64.svg",
+    "128": "images/logo_128.svg",
     "256": "images/logo_256.svg"
   },
   "browser_action": {
