@@ -13,15 +13,15 @@
 
 ---
 
-**Changelog**
+**Changelog:**
 
 **v1.1**
 
-- Default theme changed to light
+  - Default theme changed to light
 
 **v1.0**
 
-- First release
+  - First release
 
 ---
 
