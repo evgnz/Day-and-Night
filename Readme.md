@@ -17,7 +17,11 @@
 
 ### v1.1
 
-- Performance tweaks
+- Default theme changed to light
+
+### v1.0
+
+- First release
 
 ---
 
