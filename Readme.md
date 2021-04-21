@@ -11,7 +11,7 @@
 
 > **Note:** Shortcuts can be changed via the **Manage Extension Shortcuts** option at **about:addons** page.
 
-___
+***
 
 ### Changelog
 
@@ -23,7 +23,7 @@ ___
 
 - First release
 
-___
+***
 
 ### Add-ons Mozilla
 
