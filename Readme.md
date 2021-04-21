@@ -25,6 +25,6 @@
 
 ---
 
-**𝗔𝗱𝗱-𝗼𝗻𝘀 𝗠𝗼𝘇𝗶𝗹𝗹𝗮**
+## Add-ons Mozilla
 
 [![get-the-addon-178x60px-dad84b42.png](https://i.postimg.cc/Y0RF4GpR/get-the-addon-178x60px-dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/dayandnight/)
