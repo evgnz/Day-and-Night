@@ -11,6 +11,8 @@
 
 > **Note:** Shortcuts can be changed via the **Manage Extension Shortcuts** option at **about:addons** page.
 
+---
+
 ### Changelog
 
 ### v1.1
