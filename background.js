@@ -1,7 +1,7 @@
 'use strict';
 
 let timeout = false;
-let currentTheme = 'light';
+let currentTheme = 'dark';
 const defaultTheme = 'default-theme@mozilla.org';
 
 const infoTitle = browser.i18n.getMessage('notification_title');

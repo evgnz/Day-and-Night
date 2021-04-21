@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/j2bXchT4/dn-logo-git.png)
+![dn-logo](https://i.postimg.cc/bvCGxcb0/dn-logo.png)
 
 # Day&Night
 
@@ -15,7 +15,7 @@
 
 ### **Changelog:**
 
-### v1.0
+### v1.1
 
 - First release
 
