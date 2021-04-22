@@ -1,6 +1,6 @@
 ![dn-logo](https://i.postimg.cc/1R8rbrrB/dn-logo.png)
 
-# Day&Night
+## **Day&Night**
 
 **Firefox browser add-on with built-in light and dark themes that can be switched with one click**
 
@@ -11,15 +11,13 @@
 
 > **Note:** Shortcuts can be changed via the **Manage Extension Shortcuts** option at **about:addons** page.
 
+---
+
 ### Changelog
 
-**v1.1**
+### v1.2
 
-  - Default theme changed to light
-
-**v1.0**
-
-  - First release
+- The last used theme is saved and will be applied at startup.
 
 ---
 

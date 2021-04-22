@@ -104,11 +104,16 @@ function addTimeout() {
   }
 }
 
+function storeCurrent(theme) {
+  browser.storage.local.set({ stored: theme });
+}
+
 function updateTheme(theme) {
   if (timeout) {
     return;
   }
   currentTheme = theme;
+  storeCurrent(theme);
   browser.theme.update(themes[theme]);
   addTimeout();
 }
@@ -122,7 +127,19 @@ function switchTheme() {
 }
 
 browser.browserAction.onClicked.addListener(switchTheme);
-switchTheme();
+
+function handleStartup() {
+  let restoredTheme = browser.storage.local.get('stored');
+  restoredTheme.then((res) => {
+    if (res.stored === 'dark' || res.stored === 'light') {
+      updateTheme(res.stored);
+    } else {
+      switchTheme();
+    }
+  });
+}
+
+handleStartup();
 
 browser.commands.onCommand.addListener((cmd) => {
   if (cmd === 'switch_theme') {
