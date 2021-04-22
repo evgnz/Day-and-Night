@@ -1,4 +1,4 @@
-![dn-logo](https://i.postimg.cc/bvCGxcb0/dn-logo.png)
+![dn-logo](https://i.postimg.cc/1R8rbrrB/dn-logo.png)
 
 # Day&Night
 
