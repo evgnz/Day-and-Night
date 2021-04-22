@@ -6,8 +6,8 @@
 
 **Keyboard shortcuts:**
 
-- **Windows →** **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd>**
-- **macOS →** **<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd>**
+- **Windows →** <kbd>𝐂𝐭𝐫𝐥</kbd>+<kbd>𝐒𝐡𝐢𝐟𝐭</kbd>+<kbd>𝗦𝗽𝗮𝗰𝗲</kbd>
+- **macOS →** <kbd>𝗖𝗺𝗱</kbd>+<kbd>𝐒𝐡𝐢𝐟𝐭</kbd>+<kbd>𝗦𝗽𝗮𝗰𝗲</kbd>
 
 > **Note:** Shortcuts can be changed via the **Manage Extension Shortcuts** option at **about:addons** page.
 
