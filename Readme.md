@@ -15,7 +15,7 @@
 
 ### Changelog
 
-### ![version](https://img.shields.io/amo/v/%7Bf1379f36-0719-4b9a-bd37-4c71475c5268%7D?label=Day%26Night&style=plastic)
+### v1.3
 
 - Homepage URL link fix.
 
