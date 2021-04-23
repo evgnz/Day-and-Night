@@ -1,6 +1,6 @@
 ![dn-logo](https://i.postimg.cc/1R8rbrrB/dn-logo.png)
 
-## **Day&Night** ![version](https://img.shields.io/amo/v/%7Bf1379f36-0719-4b9a-bd37-4c71475c5268%7D?label=Day%26Night&style=plastic)
+## **Day&Night** 
 
 **Firefox browser add-on with built-in light and dark themes that can be switched with one click**
 
@@ -15,7 +15,7 @@
 
 ### Changelog
 
-### v1.3
+### ![version](https://img.shields.io/amo/v/%7Bf1379f36-0719-4b9a-bd37-4c71475c5268%7D?label=Day%26Night&style=plastic)
 
 - Homepage URL link fix.
 
