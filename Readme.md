@@ -15,9 +15,9 @@
 
 ### Changelog
 
-### v1.2
+### v1.3
 
-- The last used theme is saved and will be applied at startup.
+- Homepage URL link fix.
 
 ---
 
