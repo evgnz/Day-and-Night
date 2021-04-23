@@ -1,4 +1,4 @@
-![dn-logo](https://i.postimg.cc/1R8rbrrB/dn-logo.png)
+![dn-logo](https://raw.githubusercontent.com/evgnz/Day-and-Night/master/images/icon_notify.png)
 
 ## **Day&Night** 
 
