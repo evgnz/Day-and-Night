@@ -15,9 +15,9 @@
 
 ### Changelog
 
-### v1.3
+### v1.4
 
-- Homepage URL link fix.
+- Firefox >= 89 Compatibility update.
 
 ---
 
