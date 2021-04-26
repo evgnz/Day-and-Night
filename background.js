@@ -146,13 +146,13 @@ browser.commands.onCommand.addListener((cmd) => {
 });
 
 browser.management.onEnabled.addListener((info) => {
-  if (info.id && info.id === defaultTheme) {
+  if (info.id === defaultTheme) {
     updateTheme(currentTheme);
   }
 });
 
 browser.management.onDisabled.addListener((info) => {
-  if (info.id && info.id === defaultTheme) {
+  if (info.id === defaultTheme) {
     updateTheme(currentTheme);
   }
 });

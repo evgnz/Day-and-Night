@@ -15,9 +15,9 @@
 
 ### Changelog
 
-### v1.4
+### v1.5
 
-- Firefox >= 89 Compatibility update.
+- Minor performance tweaks.
 
 ---
 
