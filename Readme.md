@@ -1,6 +1,6 @@
 ![dn-logo](https://i.postimg.cc/g0YKQHpn/dn-logo.png)
 
-## **Day&Night**
+# **Day&Night**
 
 **Firefox browser add-on with built-in light and dark themes that can be switched with one click**
 
