@@ -126,7 +126,7 @@ function switchTheme() {
 
 browser.browserAction.onClicked.addListener(switchTheme);
 
-function handleStartup() {
+(function startupIIFE() {
   let restoredTheme = browser.storage.local.get('stored');
   restoredTheme.then((res) => {
     if (res.stored === 'dark' || res.stored === 'light') {
@@ -135,9 +135,7 @@ function handleStartup() {
       switchTheme();
     }
   });
-}
-
-handleStartup();
+})();
 
 browser.commands.onCommand.addListener((cmd) => {
   if (cmd === 'switch_theme') {

@@ -15,9 +15,9 @@
 
 ### Changelog
 
-### v1.5
+### v2
 
-- Minor performance tweaks.
+- Compatibility update.
 
 ---
 
