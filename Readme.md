@@ -15,7 +15,7 @@
 
 ### Changelog
 
-### v2
+### v2.0
 
 - Compatibility update.
 
