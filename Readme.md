@@ -15,9 +15,9 @@
 
 ### Changelog
 
-### v2
+### v2.01
 
-- Compatibility update.
+- Firefox 89.0 Compatibility update
 
 ---
 

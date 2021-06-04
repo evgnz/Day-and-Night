@@ -35,8 +35,8 @@ const themes = {
       tab_background_separator: '#7a7770',
       tab_line: '#7a7a7a',
       tab_loading: '#ebebec',
-      button_background_active: '#404040',
-      button_background_hover: '#343434',
+      button_background_active: '#4D4D4D',
+      button_background_hover: '#404040',
       icons_attention: '#f48c06',
       icons: '#ccccc7cf',
       ntp_background: '#1d1d1e',
@@ -126,7 +126,7 @@ function switchTheme() {
 
 browser.browserAction.onClicked.addListener(switchTheme);
 
-(function startupIIFE() {
+(function startup() {
   let restoredTheme = browser.storage.local.get('stored');
   restoredTheme.then((res) => {
     if (res.stored === 'dark' || res.stored === 'light') {
